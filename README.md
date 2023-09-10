@@ -1,6 +1,10 @@
 # Hello, I'm Krishna! 👋
 
 
+<h1 align="center">
+ <img src="banner.png" />
+</h1>
+
 
 I'm Krishna, a passionate Full Stack Developer and proud Microsoft Learn Student Ambassador. With a strong foundation in Microsoft technologies, I am dedicated to continuous learning and innovation in the world of software development.
 
