@@ -1,6 +1,7 @@
 # Hello, I'm Krishna! 👋
 
 
+
 <div align="center">
  <img src="./banner.png" />
 </div>
@@ -16,6 +17,11 @@ I'm Krishna, a passionate Full Stack Developer and proud Microsoft Learn Student
 - 🌐 Skilled in a variety of programming languages, frameworks, and tools.
 - 🏆 Proud holder of 4x Microsoft certifications.
 
+<div align="center">
+ <img src="./banner.png" />
+</div>
+
+ 
 ## 🚀 Technologies & Tools
 
 I'm comfortable working with a wide range of technologies and tools, including but not limited to:
@@ -50,8 +56,5 @@ Let's connect and collaborate on exciting projects or discuss the latest tech tr
 
 - 📧 Email: [krishnajain872@gmail.com](mailto:krishnajain872@gmail.com)
 - 🌐 LinkedIn: [krishnajain872](https://www.linkedin.com/in/krishna-jain-b21382243/)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnajain872&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or have any questions. Together, let's make the tech world a better place! 🌟
