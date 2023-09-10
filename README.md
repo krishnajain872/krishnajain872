@@ -49,4 +49,7 @@ Let's connect and collaborate on exciting projects or discuss the latest tech tr
 - 📧 Email: [krishnajain872@gmail.com](mailto:krishnajain872@gmail.com)
 - 🌐 LinkedIn: [krishnajain872](https://www.linkedin.com/in/krishna-jain-b21382243/)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnajain872&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or have any questions. Together, let's make the tech world a better place! 🌟
