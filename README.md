@@ -1,6 +1,6 @@
 # Hello, I'm Krishna! 👋
 
-![Krishna's GitHub Banner](https://your-image-link-here)
+![Krishna's GitHub Banner](https://drive.google.com/file/d/19Un3BcuXtnpK3xewTOkIbzYUk5V-MFB6/view?usp=sharing)
 
 I'm Krishna, a passionate Full Stack Developer and proud Microsoft Learn Student Ambassador. With a strong foundation in Microsoft technologies, I am dedicated to continuous learning and innovation in the world of software development.
 
