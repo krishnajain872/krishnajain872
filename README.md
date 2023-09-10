@@ -20,7 +20,7 @@ I'm Krishna, a passionate Full Stack Developer and proud Microsoft Learn Student
 <div align="center">
  <img src="./MSLearn_SA_badge_generic_rgb_300ppi.png" width="190px" height="160px" />
 
- <img src="./Microsoft(1).jpg" width="190px" height="160px" />
+ <img src="./microsoft (1).jpg" width="190px" height="160px" />
 </div>
 
  
