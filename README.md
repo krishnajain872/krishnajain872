@@ -18,7 +18,7 @@ I'm Krishna, a passionate Full Stack Developer and proud Microsoft Learn Student
 - 🏆 Proud holder of 4x Microsoft certifications.
 
 <div align="center">
- <img src="./banner.png" />
+ <img src="./MSLearn_SA_badge_generic_rgb_300ppi.png" />
 </div>
 
  
